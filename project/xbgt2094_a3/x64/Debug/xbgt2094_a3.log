@@ -1,0 +1,52 @@
+﻿  main.cpp
+C:\Users\SCSM11\Desktop\ClassFolder\Sem7_May2022\3DGP\xbgt2094_a3\xbgt2094_a3\project\xbgt2094_a3\main.cpp(367,81): warning C4244: 'argument': conversion from 'unsigned int' to 'GLfloat', possible loss of data
+C:\Users\SCSM11\Desktop\ClassFolder\Sem7_May2022\3DGP\xbgt2094_a3\xbgt2094_a3\project\xbgt2094_a3\main.cpp(367,61): warning C4244: 'argument': conversion from 'unsigned int' to 'GLfloat', possible loss of data
+C:\Users\SCSM11\Desktop\ClassFolder\Sem7_May2022\3DGP\xbgt2094_a3\xbgt2094_a3\project\xbgt2094_a3\main.cpp(748,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\SCSM11\Desktop\ClassFolder\Sem7_May2022\3DGP\xbgt2094_a3\xbgt2094_a3\project\xbgt2094_a3\main.cpp(811,20): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\SCSM11\Desktop\ClassFolder\Sem7_May2022\3DGP\xbgt2094_a3\xbgt2094_a3\project\xbgt2094_a3\main.cpp(814,40): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\SCSM11\Desktop\ClassFolder\Sem7_May2022\3DGP\xbgt2094_a3\xbgt2094_a3\project\xbgt2094_a3\main.cpp(817,21): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\SCSM11\Desktop\ClassFolder\Sem7_May2022\3DGP\xbgt2094_a3\xbgt2094_a3\project\xbgt2094_a3\main.cpp(817,45): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\SCSM11\Desktop\ClassFolder\Sem7_May2022\3DGP\xbgt2094_a3\xbgt2094_a3\project\xbgt2094_a3\main.cpp(823,21): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\SCSM11\Desktop\ClassFolder\Sem7_May2022\3DGP\xbgt2094_a3\xbgt2094_a3\project\xbgt2094_a3\main.cpp(823,45): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\SCSM11\Desktop\ClassFolder\Sem7_May2022\3DGP\xbgt2094_a3\xbgt2094_a3\project\xbgt2094_a3\main.cpp(828,20): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\SCSM11\Desktop\ClassFolder\Sem7_May2022\3DGP\xbgt2094_a3\xbgt2094_a3\project\xbgt2094_a3\main.cpp(828,44): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\SCSM11\Desktop\ClassFolder\Sem7_May2022\3DGP\xbgt2094_a3\xbgt2094_a3\project\xbgt2094_a3\main.cpp(851,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\SCSM11\Desktop\ClassFolder\Sem7_May2022\3DGP\xbgt2094_a3\xbgt2094_a3\project\xbgt2094_a3\main.cpp(853,36): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\SCSM11\Desktop\ClassFolder\Sem7_May2022\3DGP\xbgt2094_a3\xbgt2094_a3\project\xbgt2094_a3\main.cpp(866,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  xbgt2094_a3.vcxproj -> C:\Users\SCSM11\Desktop\ClassFolder\Sem7_May2022\3DGP\xbgt2094_a3\xbgt2094_a3\project\Debug\xbgt2094_a3.exe
